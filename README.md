@@ -22,12 +22,26 @@ Includes **SQL preprocessing** and **DAX measures** for KPIs.
 
 ---
 
+## 📄 Documentation
+The full business and technical documentation for this project is available here:
+[Download Sales_Performance_KPI_Dashboard_Documentation.docx](./Sales_Performance_KPI_Dashboard_Documentation.docx)
+
+It includes:
+- Business problem & objectives
+- Data model and DAX calculations
+- KPI definitions and dashboard visuals
+- Impact and ROI summary
+
+---
+
 ## 📂 Files in Repo
 - `Sales_Performance_Dashboard.pbix` → Main Power BI file  
 - `Sample_-_Superstore.csv` → Dataset used  
 - `dashboard.png` → Dashboard preview  
 - `sql/sales_queries.sql` → SQL queries for analysis  
-- `docs/dax_measures.md` → Human-readable DAX documentation  
+- `docs/dax_measures.md` → Human-readable DAX documentation
+- 'Sales_Performance_KPI_Dashboard_Documentation.docx' → Complete business & technical project documentation
+
 
 ---
 
